@@ -1,5 +1,9 @@
 import React from 'react';
 import Navbar from './components/Navbar';
+import HeroSection from './components/HeroSection';
+import Footer from './components/Footer';
+import { Button } from './components/Button';
+import Cards from './components/Cards';
 import './App.css';
 import Home from './components/pages/Home';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
